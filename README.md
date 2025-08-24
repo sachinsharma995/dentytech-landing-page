@@ -1,4 +1,4 @@
-Dentytech - Modern Landing Page
+<img width="1920" height="1080" alt="Screenshot (338)" src="https://github.com/user-attachments/assets/ee2263fc-c7ad-48a9-bbb7-e7a9e75b682b" />Dentytech - Modern Landing Page
 
 A clean and visually appealing landing page concept for a fictional startup, "Dentytech." This project showcases a modern design with a unique, dynamic image stacking effect using pure HTML and CSS.
 
@@ -27,3 +27,4 @@ Google Fonts: For the "Poppins" font family.
 
 ✍️ Author
 This project was created by Sachin Sharma.
+
